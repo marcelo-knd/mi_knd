@@ -1,0 +1,479 @@
+#EXTM3U
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBg0kTNJ/UNITEL.png" group-title="MI TV",UNITEL LP
+https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8?hls
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBg0kTNJ/UNITEL.png" group-title="MI TV",UNITELᴴᴰ SCZ
+http://cdn.digital.com.bo/__cl/cg:sworigin/__c/UNITEL/__op/hls-default/__f/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFsYKQqm/REDUNO.png" group-title="MI TV",RED UNO LP
+http://superflash.ovh:8080/live/NDHSH1N6/73927371/756032.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFsYKQqm/REDUNO.png" group-title="MI TV",RED UNOᴴᴰ SCZ
+http://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGq5Hrfm/BOLIVISION.png" group-title="MI TV", BOLIVISIONᴴᴰ LP
+https://d2b5h5wyivfnfl.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/ts:abr.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGq5Hrfm/BOLIVISION.png" group-title="MI TV", BOLIVISIONᴴᴰ SCZ
+http://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFzdQz1M/DTV.png" group-title="MI TV", DTVᴴᴰ
+http://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R44X8jzF/RTP.png" group-title="MI TV",RTP
+https://rtp.noxun.net/hls720/stream3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHqpfx2H/GIGA.png" group-title="MI TV",GIGAVISIONᴴᴰ
+http://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fG2gnyx4/CADENAA.png" group-title="MI TV",CADENA Aᴴᴰ
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8449Cgkp/PAT.png" group-title="MI TV",PATᴴᴰ SCZ
+http://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pswh3tsk/ATB.png" group-title="MI TV",ATBᴴᴰ
+http://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DwLBWy4/CEACOM.png" group-title="MI TV",CEACOM
+https://eu1.servers10.com:8081/ceacom/index.m3u8?hls
+
+
+******#EXTINF:-1 tvg-logo="https://i.ibb.co/G20LBcM/SEO-PELI.png" group-title="MI TV",SEO PELICULAS
+https://tvgolat.org:8443/live/batusaix/javier/279686.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="MI TV",COSMOS TV
+https://canaletaplus.com:3922/hybrid/play.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmdlbnR2b2ZpY2lhbF9zY3JlZW5fMF8xNTQ4MDQ4OTUzXzA2MQ/screen-0.webp?fakeurl=1&type=.webp" group-title="MI TV",GEN TV
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?hls
+
+
+*******#EXTINF:-1 tvg-logo="https://i.ibb.co/tXr6c38/ABYA.png" group-title="MI TV",ABYA YALA
+https://tvgolat.org:8443/live/batusaix/javier/56761.ts?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NZV59HT/TL-ESTRELLA.png" group-title="MI TV",TL ESTRELLA
+https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8?hls
+
+******#EXTINF:-1 tvg-logo="https://i.ibb.co/6X30wfQ/AYNI-TV.png" group-title="MI TV",AYNI TV
+https://tvgolat.org:8443/live/batusaix/javier/16518.ts?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WGbn5B/F10.png" group-title="MI TV",F10
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8?hls
+
+********#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/I01mgcKBqCwqiVyxnXFUxUTf1-eKl3Xlkorm6qm4Z6HzM4hsoXgOa5H4wKR4_GCo2Qn-hzyYjD4=s900-c-k-c0x00ffffff-no-rj" group-title="MI TV",TVU SUCRE
+https://tvgolat.org:8443/live/batusaix/javier/230932.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCg761s/TVU-UMSA.png" group-title="MI TV",TVU LP
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8?hls
+
+
+*********#EXTINF:-1 tvg-logo="https://i.ibb.co/B3pyYsG/BTV.png" group-title="MI TV",BTV 7ᴴᴰ 
+https://tvgolat.org:8443/live/batusaix/javier/161990.m3u8?hls
+
+---------------------------------------------------------
+---------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3239373541/5873191011c939433e78b9d5d3fb7ca9_400x400.png" group-title="MI TV",CARTOON NETWORKᴴᴰ
+http://170.239.188.12:25461/live/test/test/76.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqbPYS8H/CARTOONITO.png" group-title="MI TV",CARTOONITO
+http://170.239.188.12:25461/live/test/test/10.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1sRPd9/TOONCAST.png" group-title="MI TV",TOONCAST
+http://170.239.188.12:25461/live/test/test/78.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney-jr_m.png" group-title="MI TV",DISNEY JUNIOR
+http://170.239.188.12:25461/live/test/test/21.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/489928997384380416/-2-T7oX1_400x400.jpeg" group-title="MI TV",DISNEY CHANNEL
+http://170.239.188.12:25461/live/test/test/77.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="MI TV",NICK
+http://170.239.188.12:25461/live/test/test/105.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-kids_m.png" group-title="MI TV",DISCOVERY KIDS
+http://170.239.188.12:25461/live/test/test/17.m3u8
+
+
+
+---------------------------------------------------------
+---------------------------------------------------------
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_history_m.png" group-title="MI TV", HISTORY
+http://170.239.188.12:25461/live/test/test/81.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" group-title="MI TV", HISTORY 2
+http://170.239.188.12:25461/live/test/test/41.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ZzpBN4/DISCOVERY-CH.png" group-title="MI TV",DISCOVERY CH
+http://170.239.188.12:25461/live/test/test/82.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ZzpBN4/DISCOVERY-CH.png" group-title="MI TV",DISCOVERY CH 🇨🇴
+http://181.225.190.242:8000/play/a019
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3qvj10/H-H-DISCOVERY.png" group-title="MI TV",H&H DISCOVERY
+http://170.239.188.12:25461/live/test/test/36.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k97W2VV/TLC-DISCOVERY.png" group-title="MI TV",TLC DISCOVERY
+http://170.239.188.12:25461/live/test/test/64.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVzTgqh/WORLD-DISCOVERY.png" group-title="MI TV",WORLD DISCOVERY
+http://170.239.188.12:25461/live/test/test/20.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZL9qPYC/TURBO-DISCOVERY.png" group-title="MI TV",TURBO DISCOVERY
+http://170.239.188.12:25461/live/test/test/19.m3u8
+
+******#EXTINF:-1 tvg-logo="https://i.ibb.co/88dhZXG/THEATER-DISCOVERY.png" group-title="MI TV",THEATER DISCOVERY
+http://190.93.229.21:8000/play/a0a7
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MggkY6f/ID-DISCOVERY.png" group-title="MI TV",ID DISCOVERY
+http://170.239.188.12:25461/live/test/test/16.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9tNX9Ld/NAT-GEO.png" group-title="MI TV",NATGEO
+http://170.239.188.12:25461/live/test/test/50.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZg9Krv/ANIMAL-PLANET.png" group-title="MI TV",ANIMAL PLANET
+http://170.239.188.12:25461/live/test/test/83.m3u8
+
+
+
+
+
+
+
+---------------------------------------------------------
+---------------------------------------------------------
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv_m.png" group-title="MI TV", MTV
+http://170.239.188.12:25461/live/test/test/79.m3u8
+ 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/738838081122541568/Xly8mKUw_400x400.jpg" group-title="MI TV",HTV
+http://170.239.188.12:25461/live/test/test/111.m3u8
+
+
+
+
+
+
+
+---------------------------------------------------------
+---------------------------------------------------------
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/147a869f-f2cc-42b6-83fa-ad66ff6745ca_m.jpg" group-title="MI TV",CNN ESPAÑOL
+http://170.239.188.12:25461/live/test/test/13.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cablecolor.cl/images/2022/08/22/telesur.jpg" group-title="MI TV",TELESUR
+https://streamer02.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/TELESUR/__op/hls-default/__f/index.m3u8 
+ 
+
+
+---------------------------------------------------------
+---------------------------------------------------------
+
+
+ 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="MI TV",TELEFE
+http://170.239.188.12:25461/live/test/test/60.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_net-tv_m.png" group-title="MI TV",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+
+
+
+
+
+
+---------------------------------------------------------
+---------------------------------------------------------
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="MI TV",LAS ESTRELLAS
+http://170.239.188.12:25461/live/test/test/100.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/3eb1b3c4-e574-4d24-8810-85727602e734_m.jpg" group-title="MI TV",TELEMUNDO
+http://170.239.188.12:25461/live/test/test/62.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1712866525001207808/SLbIBwEv.jpg" group-title="MI TV",E! ENTERTAINMENT
+http://170.239.188.12:25461/live/test/test/30.m3u8
+
+
+
+
+
+---------------------------------------------------------
+---------------------------------------------------------
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Md82cM/TNT-NOVELAS.png" group-title="MI TV",TNT NOVELAS
+http://170.239.188.12:25461/live/test/test/94.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NCk2Rqj/TLN.png" group-title="MI TV",TL NOVELAS
+http://170.239.188.12:25461/live/test/test/95.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gRVdw21/DC.png" group-title="MI TV",DISTRITO COMEDIA
+http://170.239.188.12:25461/live/test/test/101.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qmTS5tY/D-PELICULA.png" group-title="MI TV",D PELICULA
+http://170.239.188.12:25461/live/test/test/117.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pgx3zg2/STAR-CH.png" group-title="MI TV",STAR CHANNEL
+http://170.239.188.12:25461/live/test/test/56.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb1Q14W/HBO.png" group-title="MI TV",HBO
+http://170.239.188.12:25461/live/test/test/88.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Y3x1RC/HBO-2.png" group-title="MI TV",HBO2
+http://170.239.188.12:25461/live/test/test/37.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wzbHS2q/HBO-PLUS.png" group-title="MI TV",HBO+
+http://170.239.188.12:25461/live/test/test/118.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MpSxV6b/HBO-FAMILY.png" group-title="MI TV",HBO FAMILY
+http://170.239.188.12:25461/live/test/test/38.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kGgnB50/HBO-SIGNATURE.png" group-title="MI TV",HBO SIGNATURE
+http://170.239.188.252:14500/play/a0dz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zVSN6Vy/HBO-XTREME.png" group-title="MI TV",HBO XTREME
+http://170.239.188.12:25461/live/test/test/40.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NjnNCQf/HBO-POP.png" group-title="MI TV",HBO POP
+http://170.239.188.12:25461/live/test/test/119.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XS0mXKL/HBO-MUNDI.png" group-title="MI TV",HBO MUNDI 
+http://170.239.188.12:25461/live/test/test/120.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQ6hRCs/AXN.png" group-title="MI TV",AXN
+http://170.239.188.12:25461/live/test/test/91.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQB0Shj/DHE.png" group-title="MI TV",DHE
+http://170.239.188.12:25461/live/test/test/96.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r4LF7qJ/FX.png" group-title="MI TV",FX
+http://170.239.188.12:25461/live/test/test/32.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWfp3Bz/SONY-CHANNEL.png" group-title="MI TV",SONY CHANNEL
+http://170.239.188.12:25461/live/test/test/54.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxVVBFR/TNT.png" group-title="MI TV",TNT
+http://170.239.188.12:25461/live/test/test/92.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qDtxCK1/TNT-SERIES.png" group-title="MI TV",TNT SERIES
+http://170.239.188.12:25461/live/test/test/93.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hL7ktL8/WB-TV.png" group-title="MI TV",WARNER
+http://170.239.188.12:25461/live/test/test/90.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JFqkLLh/UNIVERSAL-TV.png" group-title="MI TV",UNIVERSAL TV
+http://170.239.188.12:25461/live/test/test/69.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K6LBwfj/CINE-CANAL.png" group-title="MI TV",CINECANAL
+http://170.239.188.12:25461/live/test/test/85.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MRSmyCQ/PARAMOUNT.png" group-title="MI TV",PARAMOUNT
+http://170.239.188.12:25461/live/test/test/53.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vYW7NZq/STUDIO-UNIVERSAL.png" group-title="MI TV",STUDIO UNIVERSAL
+http://170.239.188.12:25461/live/test/test/57.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" group-title="MI TV",USA
+http://170.239.188.12:25461/live/test/test/57.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rxXCS0Y/COMEDY-CENTRAL.png" group-title="MI TV",COMEDY CENTRAL
+http://170.239.188.12:25461/live/test/test/15.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WytV9Lw/AyE.png" group-title="MI TV",A&E
+http://170.239.188.12:25461/live/test/test/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/31smVK4/GOLDEN-PLUS.png" group-title="MI TV",GOLDEN
+http://170.239.188.12:25461/live/test/test/33.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/31smVK4/GOLDEN-PLUS.png" group-title="MI TV",GOLDEN PLUS
+http://170.239.188.12:25461/live/test/test/122.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Y7HY2c/GOLDEN-EDGE.png" group-title="MI TV",GOLDEN EDGE
+http://170.239.188.12:25461/live/test/test/89.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RRFZhm/GOLDEN-PREMIER.png" group-title="MI TV",GOLDEN PREMIER
+http://170.239.188.12:25461/live/test/test/34.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/71NXcqT/GOLDEN-PREMIER-2.png" group-title="MI TV",GOLDEN PREMIER 2
+http://170.239.188.12:25461/live/test/test/35.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mH2mcW0/SPACE.png" group-title="MI TV",SPACE
+http://170.239.188.12:25461/live/test/test/55.m3u8
+
+
+---------------------------------------------------------
+---------------------------------------------------------
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYDb2Z0/ESPN-1.png" group-title="MI TV",ESPN 1
+http://170.239.188.12:25461/live/test/test/22.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g45mv2B/ESPN-2.png" group-title="MI TV",ESPN 2
+http://170.239.188.12:25461/live/test/test/23.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r0q3t7n/EPNN-3.png" group-title="MI TV",ESPN 3
+http://170.239.188.252:14500/play/a0gw/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mc0Vjvq/ESPM-4.png" group-title="MI TV",ESPN 4
+http://170.239.188.12:25461/live/test/test/25.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FnZPscw/ESPM-5.png" group-title="MI TV",ESPN 5
+http://170.239.188.12:25461/live/test/test/26.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pZHFL2j/ESPN-6.png" group-title="MI TV",ESPN 6
+http://170.239.188.12:25461/live/test/test/27.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BqyGkmj/ESPN-7.png" group-title="MI TV",ESPN 7
+http://170.239.188.12:25461/live/test/test/28.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g3t9LFR/ESPN-PM.png" group-title="MI TV",ESPN PREMIUM 
+http://170.239.188.12:25461/live/test/test/29.m3u8?hls
+
+
+---------------------------------------------------------
+---------------------------------------------------------
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ndv30pCg/GEN.png" group-title="MI TV",GEN PY 🇵🇾
+http://24.152.42.29:8000/play/a02f/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ndv30pCg/GEN.png" group-title="MI TV",GEN PY 🇵🇾¹
+http://45.170.130.224:8000/play/a04j/index.m3u8?hls
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xtT8mq3Z/CARACOL.png" group-title="MI TV",CARACOL FIBER 🇨🇴 
+http://181.225.190.242:8000/play/a00p?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hf2KMWHL/RCN.png" group-title="MI TV",RCN FIBER 🇨🇴
+http://181.225.190.242:8000/play/a02n?hls
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4xzd8YB/CHV.png" group-title="MI TV",CHV 🇨🇱🛰️
+http://148.222.230.201:8000/play/a0qh/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4xzd8YB/CHV.png" group-title="MI TV",CHV 🇨🇱
+http://170.239.188.252:14500/play/a06w/index.m3u8?hls
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4JZTc3n/DS.png" group-title="MI TV",D SPORTS 🇵🇪📡 
+http://181.65.191.173:8069/play/a08y?hls
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4JZTc3n/DS.png" group-title="MI TV",D SPORTS 🇦🇷  ⭐
+http://190.7.19.197:232/play/a09i/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4JZTc3n/DS.png" group-title="MI TV",D SPORTS 🇵🇪¹ ⭐⭐
+http://200.59.188.3:8000/play/a1a0?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4JZTc3n/DS.png" group-title="MI TV",D SPORTS 🇵🇪² ⭐⭐
+http://201.240.104.137:8000/play/a0aa/index.m3u8?hls
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pz99WgwV/DS-2.png" group-title="MI TV",D SPORTS 2 🇦🇷
+http://190.7.19.197:232/play/a09h/index.m3u8?hls
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvmSDjmY/DS.png" group-title="MI TV",D SPORTS+ 🇵🇪
+http://200.59.188.3:8000/play/a1a1?hls
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXf1Zjqb/Ty-C.png" group-title="MI TV",TyC Sports 🇦🇷
+http://190.7.19.197:232/play/a04w/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXf1Zjqb/Ty-C.png" group-title="MI TV",TyC Sports 🇵🇪
+http://177.53.153.207:8000/play/a005/index.m3u8?hls
+
+
+
+
+---------------------------------------------------------
+---------------------------------------------------------
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5XH2pmLv/EGOL.png" group-title="MI TV",ENTEL GOL¹
+http://rlatinop.com:8880/live/deisy2025v2/vShGQPs6uWbk/521032.m3u8?hls
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5XH2pmLv/EGOL.png" group-title="MI TV",ENTEL GOL²
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/363310.m3u8?hls
+
+
+---------------------------------------------------------
+
+--------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Latina_Television_-_Logotipo.png" group-title="MI TV",LATINAᴴᴰ
+http://190.117.20.37:8000/play/a0fh/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tw8fLtcW/AMERICA.png" group-title="MI TV", AMÉRICA TV 🇵🇪📡
+http://181.65.191.173:8069/play/a0bq?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tw8fLtcW/AMERICA.png" group-title="MI TV", AMÉRICA TV 1
+http://190.117.20.37:8000/play/a0ey/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tw8fLtcW/AMERICA.png" group-title="MI TV", AMÉRICA TV 2
+http://38.210.4.182:8000/play/a16x/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tw8fLtcW/AMERICA.png" group-title="MI TV", AMÉRICA TV 3
+http://38.226.49.253:8000/play/a07q/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tw8fLtcW/AMERICA.png" group-title="MI TV", AMÉRICA TV 4
+http://181.224.255.210:8001/play/a0pj/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tw8fLtcW/AMERICA.png" group-title="MI TV", AMÉRICA TV 5
+http://181.224.200.5:2277/play/a0dc/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tw8fLtcW/AMERICA.png" group-title="MI TV", AMÉRICA TV 6
+http://201.240.104.137:8000/play/a06d/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tw8fLtcW/AMERICA.png" group-title="MI TV", AMÉRICA TV 7
+http://200.60.124.25:8000/play/a0o4/index.m3u8?hls
+
+
