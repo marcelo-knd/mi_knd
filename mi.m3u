@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vnJGkD/ADULT.png",RK TV
 http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
 
